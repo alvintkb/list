@@ -1,0 +1,66 @@
+@bax|Hi! @name, saya Alvin. Terima kasih atas pertanyaan anda baru-baru ini mengenai projek Arcadia di Bandar Saujana Putra.
+Kondominium tinggi moden ini menawarkan sambungan yang sangat baik melalui lebuh raya ELITE dan
+ SKVE dan dijangka siap pada tahun 2027. Ia adalah peluang pelaburan yang hebat, 
+ memandangkan jaraknya yang dekat dengan sekolah perubatan dan sekolah antarabangsa, 
+ memastikan permintaan sewa yang kuat. 
+ Saya telah menghantar maklumat awal tentang projek ini dan akan menghubungi anda tidak lama lagi untuk berbincang lebih lanjut.
+
+$plink
+
+Sila balas dengan '1' jika anda ingin bantuan lanjut dan untuk menerima kemas kini mengenai hartanah baru daripada kami. 
+Balas dengan '0' jika anda tidak memerlukan tindakan lanjut daripada kami.
+_____________________________________________________________
+@bi1|Hai! Ini Alvin Tan dari Hartanah Victova. Terima kasih atas pertanyaan terkini anda melalui iklan Facebook kami mengenai rumah teres "Springvale" Semenyih. Saya di sini untuk membantu anda dengan sebarang soalan yang anda ada. Jika anda tersedia hujung minggu ini, saya dengan senang hati akan berjumpa dengan anda di showroom kami untuk memberikan bantuan lanjut dan memperlihatkan properti tersebut kepada anda. Bolehkah kita jadualkan pertemuan ini pada Sabtu atau Ahad pada masa yang sesuai untuk anda?
+lc1,Kami berharap dapat menyambut kedatangan anda ke showroom dan lokasi projek kami esok di:
+Lot 46701, Jalan Broga, Semenyih, 43500 Kajang, Selangor
+Untuk kemudahan anda, anda boleh mencari kami di Google Maps dan Waze:
+
+Waze
+https://waze.com/ul/hw282vcwv2
+Google Maps
+https://maps.app.goo.gl/cKbZfNPSBGSAJzTt7
+
+Sila hubungi saya atau whatsapp saya apabila anda akan datang,
+Kami berharap dapat berjumpa anda di sana tidak lama lagi!`
+
+@bi2|Hai Encik,
+Terima kasih atas pertanyaan terkini anda! Saya menghargai minat anda dalam projek kami. 
+Untuk memberikan anda semua butiran, 
+saya telah menyertakan pautan kepada dokumen yang lengkap yang meliputi segala yang perlu anda ketahui tentang hartanah yang tersedia, termasuk pelan lantai,
+harga, kemudahan, dan banyak lagi.
+Jika anda mempunyai sebarang pertanyaan lanjut atau memerlukan maklumat tambahan, jangan ragu untuk menghubungi kami.
+Untuk membantu kami menyediakan anda dengan kemas kini yang relevan:
+$plink
+Balas dengan "1" jika anda ingin terus menerima kemas kini.
+Balas dengan "0" jika anda lebih suka berhenti menerima mesej dari kami.
+Saya berharap dapat membantu anda lebih lanjut!
+@l2|Saya berharap dapat menyambut kedatangan anda ke showroom dan lokasi projek kami esok di:
+Lot 46701, Jalan Broga, Semenyih, 43500 Kajang, Selangor
+Untuk kemudahan anda, anda boleh mencari kami di Google Maps dan Waze:
+
+Waze
+https://waze.com/ul/hw282vcwv2
+Google Maps
+https://maps.app.goo.gl/cKbZfNPSBGSAJzTt7
+
+Jika anda datang, sila whatsapp saya, supaya saya dapat menjadualkan masa saya untuk anda,
+Saya berharap dapat berjumpa anda di sana tidak lama lagi!
+@bl3|Hai! Ini Alvin Tan dari Hartanah Victova. Terima kasih atas pertanyaan terkini anda melalui iklan Facebook kami mengenai rumah teres "Springvale" Semenyih.
+Saya di sini untuk membantu anda dengan sebarang soalan yang anda ada. Jika anda tersedia hujung minggu ini, saya dengan senang hati akan berjumpa dengan anda di showroom kami untuk memberikan bantuan lanjut,
+berikut adalah alamat showroom kami, lokasi
+
+Lot 46701, Jalan Broga, Semenyih, 43500 Kajang, Selangor
+Untuk kemudahan anda, anda boleh mencari kami di Google Maps dan Waze:
+
+Waze
+https://waze.com/ul/hw282vcwv2
+Google Maps
+https://maps.app.goo.gl/cKbZfNPSBGSAJzTt7
+
+Jika anda datang, sila whatsapp saya, supaya saya dapat menjadualkan masa saya untuk anda,
+Kami berharap dapat berjumpa anda di sana tidak lama lagi!
+_________________________________
+
+@bend|end
+
+
